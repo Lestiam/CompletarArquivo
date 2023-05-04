@@ -1,0 +1,10 @@
+Agencia: 3690, Conta: 12336-4, Saldo: R$4,15
+Agencia: 1010, Conta: 15998-7, Saldo: R$100,00
+Agencia: 1515, Conta: 14782-3, Saldo: R$98,50
+Agencia: 0666, Conta: 15667-4, Saldo: R$220,00
+Agencia: 0999, Conta: 87540-0, Saldo: R$87,90
+Agencia: 9632, Conta: 58742-3, Saldo: R$97,85
+Agencia: 5896, Conta: 73210-3, Saldo: R$200,00
+Agencia: 4236, Conta: 89745-6, Saldo: R$350,00
+Agencia: 9312, Conta: 31564-8, Saldo: R$399,90
+Agencia: 0212, Conta: 03937-1, Saldo: R$800,00
